@@ -1,0 +1,15 @@
+python installation:
+
+
+1.python.org
+2.python 3.10.4 version download
+3.select 3.10 to path and continue and install now
+
+
+
+download visual studio code:
+
+1.visual studio code download
+2.select 64 bit
+3. i accept all agreement
+4.selected all boxes and continue and install
